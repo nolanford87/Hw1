@@ -6,6 +6,8 @@
 
 - the interface is cluttered becuase of the use of labels off to the side of the button instead of incorperating labels in the buttons. Even with braille considered, a audio response of floor 3 would be a better system.
 
+https://github.com/nolanford87/Hw1/blob/master/elevatoroperation.gif
+
 ### B
 
 - Commonly elevators are used to assist people in reaching higher floors of a building. Whether this means with a burden, or simply because it is easier than taking the stairs. Elevators also enable the disabled to reach higher floors.
