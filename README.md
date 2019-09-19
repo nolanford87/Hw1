@@ -7,6 +7,7 @@
 - the interface is cluttered becuase of the use of labels off to the side of the button instead of incorperating labels in the buttons. Even with braille considered, a audio response of floor 3 would be a better system.
 
 ![panelimage](https://github.com/nolanford87/Hw1/blob/master/elevator%20panel.jpg)
+
 ![Elevator_Gif](https://github.com/nolanford87/Hw1/blob/master/elevatoroperation.gif)
 
 ### B
