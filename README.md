@@ -10,7 +10,7 @@
 
 - Commonly elevators are used to assist people in reaching higher floors of a building. Whether this means with a burden, or simply because it is easier than taking the stairs. Elevators also enable the disabled to reach higher floors.
 
--The interface has tactile buttons that are easy to press if you arms are full. The interface also has braille to assist the blind. Although the light on the button does not assist the blind in confiriming which floor they selected.
+- The interface has tactile buttons that are easy to press if you arms are full. The interface also has braille to assist the blind. Although the light on the button does not assist the blind in confiriming which floor they selected.
 
 - Commonly people call the elevator from the outside deciding whether they want to go up or down. Then they select the floor they wish to reach on the inside by pressing the corresponding button on the panel.
 
