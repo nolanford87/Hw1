@@ -25,3 +25,5 @@
 - The Elevator provides feedback to the user by lighting up the button that is selected. the elevator also dings once it reaches a floor.
 
 - With the current design people could potentially press the label instead of the button. Also due to the clutter they could press an unintended button and end up on the wrong floor. Due to the elevator only dinging, people could get off on the wrong floor since the elevator does not indicate audibly "Floor two."
+
+![roughimage](https://github.com/nolanford87/Hw1/blob/master/rough%20design.png)
